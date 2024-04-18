@@ -69,7 +69,7 @@ function tampilkanMenu() {
     lagi = prompt("Mau pilih yang lain? (Y/T)");
   }
 
-  console.log("Program selesai.");
+  console.log("--PROGRAM SELESAI--");
 }
 
 // Memanggil fungsi tampilkanMenu()
